@@ -1,3 +1,5 @@
+Push.Permission.request(onGranted, onDenied);
+
 Push.create('Hello World!')
 
 Push.create("Hello world!", {
